@@ -6,9 +6,9 @@ color:
   saturation: 0.16809293697588146
   rhythmicContrast: 0.9498822025489062
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: Compact Casa
